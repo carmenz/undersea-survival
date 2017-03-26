@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Undersea Survival", "Assembly-CSharp.csproj", "{5E56AB40-893C-30F2-D203-BB2DA0BF50CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Undersea Survival", "Assembly-CSharp-Editor.csproj", "{183C15AA-35BB-2E3C-30DE-DACC3B9F758C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Undersea Survival", "Assembly-UnityScript.unityproj", "{32B802A7-2B75-9B20-E552-747434108E9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E56AB40-893C-30F2-D203-BB2DA0BF50CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E56AB40-893C-30F2-D203-BB2DA0BF50CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E56AB40-893C-30F2-D203-BB2DA0BF50CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E56AB40-893C-30F2-D203-BB2DA0BF50CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{183C15AA-35BB-2E3C-30DE-DACC3B9F758C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{183C15AA-35BB-2E3C-30DE-DACC3B9F758C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{183C15AA-35BB-2E3C-30DE-DACC3B9F758C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{183C15AA-35BB-2E3C-30DE-DACC3B9F758C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32B802A7-2B75-9B20-E552-747434108E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B802A7-2B75-9B20-E552-747434108E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B802A7-2B75-9B20-E552-747434108E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B802A7-2B75-9B20-E552-747434108E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
